@@ -1,9 +1,5 @@
 # 💫 About Me:
-💼 Current Work Sector: Banking sector
-💻 Professional Interests: Back End, Cobol
-📚 Current Studies: Scrum Methodology
-🎓 Certification: CPA20 (ANBIMA Series 20 Professional Certification)
-😄 Fun Fact: I once tripped along an entire street and accidentally stumbled upon my friend's house.
+Current Work Sector: Banking sector<br>Professional Interests: Back End, Cobol<br>Current Studies: Scrum Methodology<br>Certification: CPA20 (ANBIMA Series 20 Professional Certification)<br>Fun Fact: I once tripped along an entire street and accidentally stumbled upon my friend's house.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dedecow&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
