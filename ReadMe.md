@@ -1,5 +1,5 @@
 # 💫 About Me:
-Current Work Sector: 💼 Banking sector<br>Professional Interests: 🔙 Back End (Java), Cobol<br>Current Studies: 📚 Desenvolvimento Web Full Stack<br>Certifications: 📜 CPA20 (ANBIMA Series 20 Professional Certification), 📜 Scrum Foundation<br>Leisure: 🎮 Roblox (with my 6-year-old daughter)
+Current Work Sector: 💼 Banking sector<br>Professional Interests: Engenharia de Software, Cobol<br>Current Studies: 📚 Desenvolvimento Web Full Stack<br>Certifications: 📜 CPA20 (ANBIMA Series 20 Professional Certification), 📜 Scrum Foundation<br>Leisure: 🎮 Roblox (with my 8-year-old daughter)
 
 
 ## 🌐 Socials:
