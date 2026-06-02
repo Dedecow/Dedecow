@@ -1,2 +1,2 @@
 # 💫 About Me:
-Current Work Sector: 💼 Transição de Carreira: do setor bancário para a área de Tecnologia!<br>Professional Interests: ⚙️ Software Engineering e Desenvolvimento Web<br>Current Studies: 📚 Análise e Desenvolvimento de Sistemas na Ulife<br>Certifications: 📜 Scrum Foundation<br>Leisure: 🎮 Roblox (gameplay com a filha) e café ☕
+Current Work Sector: Trabalho como Scrum Master Já a 3 anos.<br>Professional Interests: ⚙️ Engenharia de Software, APIs, IAs e Nuvem. <br>Current Studies: 📚 Análise e Desenvolvimento de Sistemas na UNIFACS<br>Certifications: 📜 Scrum Foundation<br>Leisure: 🎮 Roblox (gameplay com a filha) e café ☕
